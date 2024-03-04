@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Scavenger App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Allen Odoom**
 
-**Name of your app** is an app that ... [TODO] 
+**Scavenger app** is an app that has a list which requires the user to attach photos based on the task. After attaching the photo to a task, the app shows the user where that photo was taken in a map.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
