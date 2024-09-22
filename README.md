@@ -1,6 +1,6 @@
 # Scavenger App
 
-<img width="402" alt="Screenshot 2024-09-21 at 10 07 29 PM" src="https://github.com/user-attachments/assets/7bdcca33-70b1-475d-b665-1e41cd123d01"> <img width="395" alt="Screenshot 2024-09-21 at 10 07 50 PM" src="https://github.com/user-attachments/assets/363ad180-d769-40f9-95bc-d9370f821a13"> <img width="404" alt="Screenshot 2024-09-21 at 10 08 14 PM" src="https://github.com/user-attachments/assets/235331dc-eb7e-4dcc-a7f9-40b6576b90c9">
+<img width="100" alt="Screenshot 2024-09-21 at 10 07 29 PM" src="https://github.com/user-attachments/assets/7bdcca33-70b1-475d-b665-1e41cd123d01"> <img width="100" alt="Screenshot 2024-09-21 at 10 07 50 PM" src="https://github.com/user-attachments/assets/363ad180-d769-40f9-95bc-d9370f821a13"> <img width="100" alt="Screenshot 2024-09-21 at 10 08 14 PM" src="https://github.com/user-attachments/assets/235331dc-eb7e-4dcc-a7f9-40b6576b90c9">
 
 
 
