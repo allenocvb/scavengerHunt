@@ -1,6 +1,7 @@
 # Scavenger App
 
 ## Overview
+(Dev in progress)
 Scavenger App is a mobile application that gamifies task completion through photo verification and location tracking. Users interact with a list of predefined tasks, completing them by attaching geotagged photos. The app then visualizes task locations on an interactive map. I started building this application in my iOS 102 class as part of the CodePath Curriculum. Plan on expanding features.
 
 ## Features
